@@ -1,0 +1,81 @@
+/* fonts */
+export const FontFamily = {
+  regularNoneMedium: "Roboto",
+  roboto: "Roboto",
+  openSans: "Open Sans",
+};
+/* font sizes */
+export const FontSize = {
+  regularNoneMedium_size: 16,
+  size_xs: 12,
+  size_sm: 14,
+  size_smi: 13,
+  size_xl: 20,
+  size_2xs: 11,
+  size_mini: 15,
+  size_lgi: 19,
+  size_5xl: 24,
+  size_7xl: 26,
+  size_17xl: 36,
+  size_3xs: 10,
+  size_6xl: 25,
+  size_10xl: 29,
+};
+/* Colors */
+export const Color = {
+  black06: "#818181",
+  colorGray_100: "#808080",
+  colorGray_200: "#72777a",
+  neutralColorsBlack: "#1e1c39",
+  grey900: "#1a202c",
+  colorGray_300: "#101010",
+  colorGray_400: "#0d0d0d",
+  inkDarkest: "#090a0a",
+  black01: "#030303",
+  colorGray_500: "rgba(255, 255, 255, 0.7)",
+  neutralColorsWhite: "#fff",
+  colorBlueviolet: "#6b4eff",
+  indigoDye: "#104d6c",
+  colorDarkslategray_100: "#313144",
+  colorDarkslategray_200: "#333",
+  colorDarkslategray_300: "rgba(16, 77, 108, 0.62)",
+  colorSilver: "#b8bbc2",
+  colorGainsboro_100: "#e8e8e8",
+  colorGainsboro_200: "#e1e1e1",
+  colorDodgerblue: "#2f80ed",
+  colorDarkgray: "#aaa",
+  colorBlack: "#000",
+  grey100: "#f7fafc",
+  colorWhitesmoke_100: "#f5f7f7",
+  colorWhitesmoke_200: "#f4f6f6",
+  colorsBackgroundsLight: "#f5f5f5",
+  colorWhitesmoke_300: "#e9e9e9",
+  colorDarkslateblue: "#023e8a",
+  colorDimgray: "#636363",
+  mikadoYellow: "#ffc727",
+  neutralColorsTextGray: "#615e83",
+  colorMediumpurple: "#9961a8",
+  colorDarkblue_100: "#480ca8",
+  viridian: "#42887c",
+};
+/* Paddings */
+export const Padding = {
+  p_5xl: 24,
+  p_2xs: 11,
+  p_lg: 18,
+  p_3xs: 10,
+  p_8xs: 5,
+  p_6xl: 25,
+  p_12xs: 1,
+  p_4xs: 9,
+};
+/* border radiuses */
+export const Border = {
+  br_5xs: 8,
+  br_31xl: 50,
+  br_7xs: 6,
+  br_xl: 20,
+  br_9xs: 4,
+  br_5xl: 24,
+  br_lg: 18,
+};
